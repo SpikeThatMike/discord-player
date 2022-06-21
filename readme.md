@@ -7,7 +7,7 @@ Simple to use discord music player which supports **Youtube**, **Spotify** & **S
 To use this package, install it using
 
 ```bash
-npm i -g @spike/discord-player
+npm i -g @spikethatmike/discord-player
 ```
 
 
